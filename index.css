@@ -1,0 +1,15 @@
+body {
+    background-color: antiquewhite;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+form {
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+}
+
+button{
+    background-color: rgb(4, 19, 180);
+    color: azure;
+}
